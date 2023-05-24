@@ -1,4 +1,8 @@
-.sobre 
+.sobre h1
+{
+    color: red;
+}
+.sobre h3
 {
     color: red;
 }
